@@ -1,0 +1,32 @@
+{
+  "goal.aviators": {
+    "sounds": [{ "name": "hockey:goal/aviators", "stream": true }]
+  },
+  "goal.blizzard": {
+    "sounds": [{ "name": "hockey:goal/blizzard", "stream": true }]
+  },
+  "goal.drought": {
+    "sounds": [{ "name": "hockey:goal/drought", "stream": true }]
+  },
+  "goal.greyhounds": {
+    "sounds": [{ "name": "hockey:goal/greyhounds", "stream": true }]
+  },
+  "goal.shipwreck": {
+    "sounds": [{ "name": "hockey:goal/shipwreck", "stream": true }]
+  },
+  "win.aviators": {
+    "sounds": [{ "name": "hockey:goal/aviators", "stream": true }]
+  },
+  "win.blizzard": {
+    "sounds": [{ "name": "hockey:win/blizzard", "stream": true }]
+  },
+  "win.drought": {
+    "sounds": [{ "name": "hockey:win/drought", "stream": true }]
+  },
+  "win.greyhounds": {
+    "sounds": [{ "name": "hockey:win/greyhounds", "stream": true }]
+  },
+  "win.shipwreck": {
+    "sounds": [{ "name": "hockey:goal/shipwreck", "stream": true }]
+  }
+}
